@@ -1,0 +1,61 @@
+/* function orale() {
+  console.log("Twinkle, twinkle, little star,");
+console.log("How I wonder what you are!");   
+console.log("Up above the world so high,");
+console.log("Like a diamond in the sky.");
+}
+
+orale(); */
+
+
+/* function sayHello() {
+  console.log('Hello there');
+}
+
+function sayHello(name) {
+  console.log('hello there! ' + name + "!");
+}
+
+sayHello('Kimbo')
+sayHello('')
+
+function greet(person1, person2, person3){
+  console.log("hi " + person1);
+  console.log("hi " + person2);
+  console.log("hi " + person3);
+}
+
+greet('Eddy', 'Law', 'Hwoarang');
+
+function isEven(num){
+  if(num % 2 === 0){
+    return true;
+    } else {
+      return false
+    }
+  }
+  console.log(isEven(4)); */
+
+ /*  function factorial(num){
+    //define a result variable
+    let result = 1;
+    //calculate factorial and store value in result
+    for(let i = 2; i <= num; i++){
+      result = result * i;
+    }
+    return result; 
+  }
+  console.log(factorial(0))
+  // factorial(4) 4 * 3 * 2 * 1 */
+
+  /* function kebabToSnake(str){
+   // replace all '-' with '_'
+   
+   let newStr = str.replace(/-/g , '_');
+   //return str
+   return newStr;
+  }
+  console.log(kebabToSnake('hello-world'))
+  console.log(kebabToSnake('hello-world-again'))
+
+   */
